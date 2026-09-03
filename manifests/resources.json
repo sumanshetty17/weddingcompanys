@@ -1,0 +1,1351 @@
+[
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+    "local_path": "public/images/TheWeddingCompanyLogo_Low_Res.88e6d171.webp",
+    "type": "image",
+    "size": 7028,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "9fdccb74f3be814c657c3fda68effe20d503e2ccfd338207e8ebf7f1f5fd8e5e"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/flowerbg.webp",
+    "local_path": "public/images/flowerbg.webp",
+    "type": "image",
+    "size": 48500,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "9be52efc88a8692037e971a85780f279a5d252ddc23a56bc6fa339109531c0dc"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/arrows_more_down.svg",
+    "local_path": "public/images/arrows_more_down.svg",
+    "type": "image",
+    "size": 690,
+    "content_type": "image/svg+xml",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "ec1b9b3a5b0d41d76b427af51b49af9b63f6dff38630c39e146c8e4fb61dafd2"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/sparkle.svg",
+    "local_path": "public/images/sparkle.svg",
+    "type": "image",
+    "size": 9384,
+    "content_type": "image/svg+xml",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "bb098f4539c9236a815a873b633cfc0e5f1094bfa7db6bff2c484a7af5096b7a"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/flower-pattern.420d88dc.webp",
+    "local_path": "public/images/flower-pattern.420d88dc.webp",
+    "type": "image",
+    "size": 175824,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "9abc4f13a581bf621b57a394e18d5fb7b3416cf59f716567ac1f901967619e86"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/weddingStep1.a532ad30.webp",
+    "local_path": "public/images/weddingStep1.a532ad30.webp",
+    "type": "image",
+    "size": 64370,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "bf8638baae34d82c36614fe00da42a8d9c9f983bed16e29972cbd61e18289043"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/weddingStep2.9d688910.webp",
+    "local_path": "public/images/weddingStep2.9d688910.webp",
+    "type": "image",
+    "size": 68148,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "5086a4a5696d324b3ba50f99b72c1c1bd3d6eae2f50a1308754fbb5976b04e07"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/weddingStep3.e7bf9f67.webp",
+    "local_path": "public/images/weddingStep3.e7bf9f67.webp",
+    "type": "image",
+    "size": 58342,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "0ed47344109fd36c64f5cb785158238b80e45ac858c90b0682dcee5430e8fa10"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/hotel-taj.cca019c4.webp",
+    "local_path": "public/images/hotel-taj.cca019c4.webp",
+    "type": "image",
+    "size": 7848,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "983bea8d731723f61cb511ea4464f69f83e1eee075ac37c9d6f9a36387f61bcd"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/hotel-le-meridian.eb0700d2.webp",
+    "local_path": "public/images/hotel-le-meridian.eb0700d2.webp",
+    "type": "image",
+    "size": 12984,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "ee996ec79843e37b25fd8fedcfc4f65fd344628e5d47639fe92b2710f1884a0e"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/hotel-leela.a8e74c58.webp",
+    "local_path": "public/images/hotel-leela.a8e74c58.webp",
+    "type": "image",
+    "size": 11000,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "c5aa9bbc582623b6f47269a436bda7b41b9fc9486797bfc5c94846037510e2d5"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/hotel-ramada.672cfe9c.webp",
+    "local_path": "public/images/hotel-ramada.672cfe9c.webp",
+    "type": "image",
+    "size": 43388,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "1759dc3075528fbf92b9ab7c335b83cd32e9bc537933e30cba9dade61d57be49"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/hotel-sara.e6ec524b.webp",
+    "local_path": "public/images/hotel-sara.e6ec524b.webp",
+    "type": "image",
+    "size": 13180,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "4680c5d7b0d8e8da03f56b37ec9a447435ab07352e7f81931ca382d6d21da66c"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/pinkCheckIcon.fad964b8.webp",
+    "local_path": "public/images/pinkCheckIcon.fad964b8.webp",
+    "type": "image",
+    "size": 2732,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "940ba03d8bf65d59fc4896bc07e69b2db438b1a8ef2c03ecd960c947fdb2c0eb"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/Mandap.d8d5d35e.webp",
+    "local_path": "public/images/Mandap.d8d5d35e.webp",
+    "type": "image",
+    "size": 22486,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "3111c1cd010052eb9128f17e4b966fa43aed3c0f29a57c59c244e7d983cf8b16"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/1.28919306.webp",
+    "local_path": "public/images/1.28919306.webp",
+    "type": "image",
+    "size": 480246,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "97e555af1904e7d1705ca65c3b9a302fefe6a78e5015687b3781ed7b0ade4698"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/2.78471c2c.webp",
+    "local_path": "public/images/2.78471c2c.webp",
+    "type": "image",
+    "size": 162270,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "d0e9f9e43ecb46618ccaefd62acbb7697f63d1a874c5b9172a9ddef0ff92ccbb"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/3.2443e50a.webp",
+    "local_path": "public/images/3.2443e50a.webp",
+    "type": "image",
+    "size": 167316,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "ef7ab6c82540d7307094939a39d853d8b1610a456d53be944744a272e7dcceff"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/4.a93956bd.webp",
+    "local_path": "public/images/4.a93956bd.webp",
+    "type": "image",
+    "size": 429448,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "10e9962377c2b09b5376198e3284a60d529c0fbd328897f9ec5242d41aa6d285"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePage/new/pink-curve.svg",
+    "local_path": "public/images/pink-curve.svg",
+    "type": "image",
+    "size": 1391,
+    "content_type": "image/svg+xml",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "e480a21c141132c4b67014dea8823368760b96e707dbe247d9fd4b9d9df28bc3"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePage/new/big-mandala.webp",
+    "local_path": "public/images/big-mandala.webp",
+    "type": "image",
+    "size": 209986,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "8720f4ad48e3bca7abe4dc821b2ceef979bf9bc72dce179b1eb76dc4beac029c"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePage/new/green-curve.svg",
+    "local_path": "public/images/green-curve.svg",
+    "type": "image",
+    "size": 1378,
+    "content_type": "image/svg+xml",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "11987cd645cf7b82f6ef07adca55aa07a33d6d581988c1c54a54768f66cc2b07"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePageRevamp/benefits/gift.webp",
+    "local_path": "public/images/gift.webp",
+    "type": "image",
+    "size": 42734,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "af0399e4f03c7fde635504f0f7404cab0c1996dc881a5692634239773cd3ee24"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePageRevamp/benefits/bulb.webp",
+    "local_path": "public/images/bulb.webp",
+    "type": "image",
+    "size": 36378,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "b2833d5361dfc1738f02d8d5ba408d47d43f9524debc1c2adebd73c14aa40872"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePageRevamp/benefits/lady.webp",
+    "local_path": "public/images/lady.webp",
+    "type": "image",
+    "size": 50358,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "7a1916e96ac86f0e4c71f2da9502d8c4e44557ca8d83f69f1835cadc19c04741"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePage/new/flower-pattern.png",
+    "local_path": "public/images/flower-pattern.png",
+    "type": "image",
+    "size": 156116,
+    "content_type": "image/png",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "afb02b4c3a6bc99223bd5e60e815fd670004efad9f26cb34c7110bf3e8f6be48"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePage/new/vendor-1.webp",
+    "local_path": "public/images/vendor-1.webp",
+    "type": "image",
+    "size": 114920,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "bcc790f6c76fe023166535efcb82fddc54cf7cb444e96bca43f92620b957cd2c"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePage/new/vendor-2.webp",
+    "local_path": "public/images/vendor-2.webp",
+    "type": "image",
+    "size": 107688,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "2dd101f894e7fafa78fbc8de9c72fdf9246bc2bad49a39b13224de4698322d23"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/images/HomePage/new/vendor-3.webp",
+    "local_path": "public/images/vendor-3.webp",
+    "type": "image",
+    "size": 23488,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "1192ca22ae20ebec9c28ea01cdd6568a75e81fe6c12117fc5667fad1aad7ebc9"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/media/TheWeddingCompanyLogoVertical.b80524ce.webp",
+    "local_path": "public/images/TheWeddingCompanyLogoVertical.b80524ce.webp",
+    "type": "image",
+    "size": 101164,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/price-beat-challenge"
+    ],
+    "status": "collected",
+    "sha256": "ebf63e3a153723e2f0386c56116c6d010bb3fde29bbf8a5e0ab980d6ec94f948"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/favicon_new.ico",
+    "local_path": "public/images/favicon_new.ico",
+    "type": "image",
+    "size": 140206,
+    "content_type": "image/vnd.microsoft.icon",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "e393567531df196e5883f3d964e35935e18408e7aa2600f0d67da3a0479c9bc6"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/css/45fac96d84da127f.css",
+    "local_path": "public/css/45fac96d84da127f.css",
+    "type": "css",
+    "size": 300655,
+    "content_type": "text/css; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "6447b1f8250e199151f6882e316d31845668caef70ec114a416f3bdd6d0d4438"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/css/61dbd837b13489b4.css",
+    "local_path": "public/css/61dbd837b13489b4.css",
+    "type": "css",
+    "size": 947,
+    "content_type": "text/css; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-services"
+    ],
+    "status": "collected",
+    "sha256": "e82fc4c0263b7d9d62ae274c07bbf1addbf899204d3aa24b60dc80082b01a59f"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+    "local_path": "public/js/polyfills-c67a75d1b6f99dc8.js",
+    "type": "javascript",
+    "size": 91460,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "0225eb034d024a03bdc90ea6c79f56193662e7c3eee909696298820e517cbb83"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/webpack-da6a037c2e8c8373.js",
+    "local_path": "public/js/webpack-da6a037c2e8c8373.js",
+    "type": "javascript",
+    "size": 8914,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "92d9098b3e62f5651317f5bba8ea3072284635be58d25d48ef209367c8e7d2c7"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/framework-ca706bf673a13738.js",
+    "local_path": "public/js/framework-ca706bf673a13738.js",
+    "type": "javascript",
+    "size": 141070,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "68d9eb6aefb519749c74c97c8b3271a6cb7279ea5f790803885d2a45eefb2269"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/main-33889c593ae3d1ff.js",
+    "local_path": "public/js/main-33889c593ae3d1ff.js",
+    "type": "javascript",
+    "size": 130972,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "9d325d8cea24c95a8ff646c34094f74a1231cbb94a65d239a230d0f01b5804ed"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/pages/_app-7e9515afbc97f98c.js",
+    "local_path": "public/js/_app-7e9515afbc97f98c.js",
+    "type": "javascript",
+    "size": 1278923,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "1992200e8751a4f538083817eddbc7c00b9b1f15273938492c52b1f4c33d63a0"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/3473-add54957d80e2d96.js",
+    "local_path": "public/js/3473-add54957d80e2d96.js",
+    "type": "javascript",
+    "size": 10554,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "4340f74a45862858c79794ed74f23cee6511b4c0c235c648da33e2bd19292593"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/6492-92709623d714fe9d.js",
+    "local_path": "public/js/6492-92709623d714fe9d.js",
+    "type": "javascript",
+    "size": 10563,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "bc5dca7268810f7790d02be36d979c4df1ef3df8ab14c0fae6b74d2d99eef688"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/2255-ffcc27dacd43bb13.js",
+    "local_path": "public/js/2255-ffcc27dacd43bb13.js",
+    "type": "javascript",
+    "size": 59462,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "8cc874354bcc43a91c83120eedebfa9e839a39d1e0223738e2c83567000fe349"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/8625-21fed89f3eff2a23.js",
+    "local_path": "public/js/8625-21fed89f3eff2a23.js",
+    "type": "javascript",
+    "size": 7481,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "d77cd5b6c95bebf5ac83913418f616e06fa68841ca869f3f12e676e926ac77b1"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/1604-a53b354951b7676f.js",
+    "local_path": "public/js/1604-a53b354951b7676f.js",
+    "type": "javascript",
+    "size": 67296,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "b67bc5e0477415695c4715cd432bee5c40fe8b496b2548e20e331d8c47d26509"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/4363-976e2e16f3c730cc.js",
+    "local_path": "public/js/4363-976e2e16f3c730cc.js",
+    "type": "javascript",
+    "size": 51156,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "898f3598c68088fcde490b2ac0fa432e223788c79b75657381dea0dc38cafe88"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/8561-961f0c8f6073207c.js",
+    "local_path": "public/js/8561-961f0c8f6073207c.js",
+    "type": "javascript",
+    "size": 23282,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "8f196072b6e9aa41de18ed55fb7adfc3f27683e1b518da40a06d3ce4d72c9700"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/1664-984ff4b7948f7ae8.js",
+    "local_path": "public/js/1664-984ff4b7948f7ae8.js",
+    "type": "javascript",
+    "size": 6556,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "2dad740ca360f737e25cc95ff1059038d76d6a19048c1d961f70901d3db5dd48"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/6767-47e95727a163832b.js",
+    "local_path": "public/js/6767-47e95727a163832b.js",
+    "type": "javascript",
+    "size": 8285,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "de0720da66ab2e382cc49c58b32ed492802ae6fb39a665501839414836b16516"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/5061-b73808c106220f35.js",
+    "local_path": "public/js/5061-b73808c106220f35.js",
+    "type": "javascript",
+    "size": 10672,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "c8c5f02f8fc23ffb756d9213b2210c83fd303c6d79a2d022be9db69560ae718f"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/295-20462b84c329aeae.js",
+    "local_path": "public/js/295-20462b84c329aeae.js",
+    "type": "javascript",
+    "size": 15781,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "4189c844f16ca1059093cf8a827b7b5f91a21558d52fb9a086200845395366cc"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/9219-4978c9082a304e31.js",
+    "local_path": "public/js/9219-4978c9082a304e31.js",
+    "type": "javascript",
+    "size": 21886,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "3a1b7f4c0407be5678d52721b8c5b4a070f080fe81b4fec05a5b67b30b89d1c4"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/9883-1677d039fb48ca95.js",
+    "local_path": "public/js/9883-1677d039fb48ca95.js",
+    "type": "javascript",
+    "size": 13226,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "aa4c4ea175ec61bd0bac29f79f280ec555301481f68dc17b20182f584482dcc6"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/7977-43bd9a7b0fccb336.js",
+    "local_path": "public/js/7977-43bd9a7b0fccb336.js",
+    "type": "javascript",
+    "size": 15647,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "9bdd2e6181e1b4220c18d2f7f1ee464837615de9fe4b598a4398f621eb2cc911"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/7530-089912054e34e02a.js",
+    "local_path": "public/js/7530-089912054e34e02a.js",
+    "type": "javascript",
+    "size": 11697,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "b7d947ef19fc52230a7569ff09c95ea3cf76706b65e10c3d497efa62c104efd0"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/2233-82dafcff4d889226.js",
+    "local_path": "public/js/2233-82dafcff4d889226.js",
+    "type": "javascript",
+    "size": 21422,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services"
+    ],
+    "status": "collected",
+    "sha256": "057b7807a4a37508a1029c32641af9806a89ab19db6114c8d93e95245f35cf19"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/6302-650c55643eb62958.js",
+    "local_path": "public/js/6302-650c55643eb62958.js",
+    "type": "javascript",
+    "size": 396283,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "9895a3d60d9be51ea6a980c575079990937decaaadc81d30e973a3769294cac4"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/896-de2ab274e71a8703.js",
+    "local_path": "public/js/896-de2ab274e71a8703.js",
+    "type": "javascript",
+    "size": 37449,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "4942b9f0284ed20c8ad20010f2de5526deee57161e74090aadce488f7f2079e2"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/chunks/pages/index-162cf9c2c7a6647f.js",
+    "local_path": "public/js/index-162cf9c2c7a6647f.js",
+    "type": "javascript",
+    "size": 64223,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/"
+    ],
+    "status": "collected",
+    "sha256": "9cab0f4c4893fa92502a5e7eced140fff4107240303ccae0573d8b54779ed58e"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/v2V7TWVtxkjCoyCBHtPLx/_buildManifest.js",
+    "local_path": "public/js/_buildManifest.js",
+    "type": "javascript",
+    "size": 19811,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "0fd26ec495b8a852f4437f147a08b4b0e583a96a82b7525a8897ee15df3d1074"
+  },
+  {
+    "original_url": "https://www.theweddingcompany.com/_next/static/v2V7TWVtxkjCoyCBHtPLx/_ssgManifest.js",
+    "local_path": "public/js/_ssgManifest.js",
+    "type": "javascript",
+    "size": 652,
+    "content_type": "application/javascript; charset=utf-8",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/",
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/price-beat-challenge",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru",
+      "https://www.theweddingcompany.com/wedding-venues/delhi",
+      "https://www.theweddingcompany.com/wedding-venues/mumbai",
+      "https://www.theweddingcompany.com/wedding-venues/goa",
+      "https://www.theweddingcompany.com/wedding-venues/noida",
+      "https://www.theweddingcompany.com/wedding-venues/gurugram",
+      "https://www.theweddingcompany.com/wedding-venues/jaipur",
+      "https://www.theweddingcompany.com/wedding-venues/udaipur",
+      "https://www.theweddingcompany.com/wedding-ideas",
+      "https://www.theweddingcompany.com/wedding-services",
+      "https://www.theweddingcompany.com/wedding-venues/noida/banquet-halls-fi3"
+    ],
+    "status": "collected",
+    "sha256": "9e0b8976a584efeff20199bb399e54bb6156ce582f583d21f315f7f54b6c1c60"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/fdc92fb9-2cbe-436b-819f-026384df811e/admin_uploads/9045ec32-2697-4637-aea0-cbac65ccea6e.jpg",
+    "local_path": "public/images/9045ec32-2697-4637-aea0-cbac65ccea6e.jpg",
+    "type": "image",
+    "size": 123251,
+    "content_type": "image/jpeg",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues"
+    ],
+    "status": "collected",
+    "sha256": "b71a0c272265a78a5e8007dc20389366ac26080f8a70206a945a9a996b6d4b1d"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/fdc92fb9-2cbe-436b-819f-026384df811e/admin_uploads/57faa0eb-c5c8-4bf7-a576-7acce408cb4e.jpg",
+    "local_path": "public/images/57faa0eb-c5c8-4bf7-a576-7acce408cb4e.jpg",
+    "type": "image",
+    "size": 144611,
+    "content_type": "image/jpeg",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues"
+    ],
+    "status": "collected",
+    "sha256": "3a0467d428547cd30b81e5f50d24145ac5c978f52b2ccff36dae0ad4aabed2bf"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/fdc92fb9-2cbe-436b-819f-026384df811e/admin_uploads/beceac88-b461-499f-8a01-5bea40caf2eb.jpg",
+    "local_path": "public/images/beceac88-b461-499f-8a01-5bea40caf2eb.jpg",
+    "type": "image",
+    "size": 131637,
+    "content_type": "image/jpeg",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues"
+    ],
+    "status": "collected",
+    "sha256": "09defc7bf0eb49dc070349de2cfba8a15eb7d29fe6ae8a913e88402e96882fbe"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/fdc92fb9-2cbe-436b-819f-026384df811e/admin_uploads/b17b217c-0d4c-4f16-b0b0-dee61f01bd43.jpg",
+    "local_path": "public/images/b17b217c-0d4c-4f16-b0b0-dee61f01bd43.jpg",
+    "type": "image",
+    "size": 61538,
+    "content_type": "image/jpeg",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues"
+    ],
+    "status": "collected",
+    "sha256": "1dba7bbb0f257376c2d8530a5b6b2850387fcb483f0d54e04075ec75bcec2a45"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/bfeeb8aa-0d7d-4096-a076-6ab5be4ac3d6/admin_uploads/4f714e59-8751-4af0-ad50-726d873887ed.webp",
+    "local_path": "public/images/4f714e59-8751-4af0-ad50-726d873887ed.webp",
+    "type": "image",
+    "size": 345774,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "c26d74fcddf8f0ba7ba9c09c2719e5c1927b5509f6de1827ba1d78068aa17d5b"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/bfeeb8aa-0d7d-4096-a076-6ab5be4ac3d6/admin_uploads/a5d00707-8d32-4ef8-8365-cc68ffe85edb.webp",
+    "local_path": "public/images/a5d00707-8d32-4ef8-8365-cc68ffe85edb.webp",
+    "type": "image",
+    "size": 125482,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "32595041645b85323108895f698582deb075121b970ffacd8895b146bc17ab45"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/bfeeb8aa-0d7d-4096-a076-6ab5be4ac3d6/admin_uploads/c9ff4816-52ee-4ce1-a980-7d28d832106f.webp",
+    "local_path": "public/images/c9ff4816-52ee-4ce1-a980-7d28d832106f.webp",
+    "type": "image",
+    "size": 173254,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "edfdf0270ceebee6689ff3a703af0ad86f0044b6be0198e0193ec7f44d8668e7"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/bfeeb8aa-0d7d-4096-a076-6ab5be4ac3d6/admin_uploads/33715908-db43-4c5e-91b6-96c07aa5bbda.webp",
+    "local_path": "public/images/33715908-db43-4c5e-91b6-96c07aa5bbda.webp",
+    "type": "image",
+    "size": 333110,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "ca5307f81299e09f002c88aece49e31ba8198cc0a0ee921dc228e27768bda668"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/e66ddcd2-b7c1-4a46-bae4-2163e97a319d.webp",
+    "local_path": "public/images/e66ddcd2-b7c1-4a46-bae4-2163e97a319d.webp",
+    "type": "image",
+    "size": 513856,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "d4f3cdf060681d645acfabf334487f899cc8c956c2c943247fd9cf516d2ec616"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/f80db012-4799-4ee5-b7bd-7f4321cbe6fb_compressed.webp",
+    "local_path": "public/images/f80db012-4799-4ee5-b7bd-7f4321cbe6fb_compressed.webp",
+    "type": "image",
+    "size": 71524,
+    "content_type": "application/octet-stream",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "ab2e3148bc1d2fdfb13205bf21017cc0096e09b0044b22c3f9ec921b309fae9c"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/642bd94b-bdb3-4037-a104-0787ffebed4f_compressed.webp",
+    "local_path": "public/images/642bd94b-bdb3-4037-a104-0787ffebed4f_compressed.webp",
+    "type": "image",
+    "size": 69886,
+    "content_type": "application/octet-stream",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "f30eba9571891f52cd51e1956ecf8f2fb7ebed17f7abbcfb587fb3af24d888d8"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/544ee174-a406-4e57-80fa-18d6b27cb91a/admin_uploads/4935e97d-6916-4cc0-8e02-6696e5acefee_compressed.webp",
+    "local_path": "public/images/4935e97d-6916-4cc0-8e02-6696e5acefee_compressed.webp",
+    "type": "image",
+    "size": 39274,
+    "content_type": "application/octet-stream",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "39f8a28bdae339db94667b9c8543493070f9354e86805766b6b82e19340f6a15"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/6518bfc5-a924-4bf1-8e97-55d864739c81/admin_uploads/6953a19c-eeea-4a30-8be0-829b51b70326.webp",
+    "local_path": "public/images/6953a19c-eeea-4a30-8be0-829b51b70326.webp",
+    "type": "image",
+    "size": 231160,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "d40711c96fc3e84f1756b68a64d5895e2936f272d49e6768bb5385b5294463be"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/6518bfc5-a924-4bf1-8e97-55d864739c81/admin_uploads/67036bac-ba4b-4a2e-b627-d3a39ae19d17.webp",
+    "local_path": "public/images/67036bac-ba4b-4a2e-b627-d3a39ae19d17.webp",
+    "type": "image",
+    "size": 104446,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "e31333d3d7b3d20d04b51fe13066183c77d5074eaf6af3381919c8c1e54ef754"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/6518bfc5-a924-4bf1-8e97-55d864739c81/admin_uploads/d4c6e5d9-32e5-4540-aa1e-404718267152.webp",
+    "local_path": "public/images/d4c6e5d9-32e5-4540-aa1e-404718267152.webp",
+    "type": "image",
+    "size": 136662,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "c5104f07a34c825fe5e0080362f11128a88e2259273c57002a7574cbe7a6a132"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/6518bfc5-a924-4bf1-8e97-55d864739c81/admin_uploads/2ec12b04-fc78-4055-a03c-e83a81ea1573.webp",
+    "local_path": "public/images/2ec12b04-fc78-4055-a03c-e83a81ea1573.webp",
+    "type": "image",
+    "size": 279010,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "b352414b6556e2906dc3095abd67f2a5cfdfa27f4462328821eebf903a26abf2"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/22bcb9e3-1f74-4969-a72f-326c2aa2fd37/admin_uploads/4338ef5a-40f8-49e6-92a9-93edd6365987.jpg",
+    "local_path": "public/images/4338ef5a-40f8-49e6-92a9-93edd6365987.jpg",
+    "type": "image",
+    "size": 439953,
+    "content_type": "image/jpeg",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/goa"
+    ],
+    "status": "collected",
+    "sha256": "3ed8bedf90f52e65c067a631c775291a6680bdde8b35aae8eb82d9d873321f56"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/22bcb9e3-1f74-4969-a72f-326c2aa2fd37/admin_uploads/416f6295-7452-4800-a8fe-b32d458c7db6.webp",
+    "local_path": "public/images/416f6295-7452-4800-a8fe-b32d458c7db6.webp",
+    "type": "image",
+    "size": 234064,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/goa"
+    ],
+    "status": "collected",
+    "sha256": "65e1b5681df231a20afa2dccd81616e0343800c74c4a2cd0c4222000c2095e48"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/22bcb9e3-1f74-4969-a72f-326c2aa2fd37/admin_uploads/a8325d26-b2f1-40b3-bdcb-a460bbd2a873.webp",
+    "local_path": "public/images/a8325d26-b2f1-40b3-bdcb-a460bbd2a873.webp",
+    "type": "image",
+    "size": 358164,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/goa"
+    ],
+    "status": "collected",
+    "sha256": "b5f014db2d4f9a1b6dad88f7a55256d377ad65a02a7003a315a610d075071092"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/22bcb9e3-1f74-4969-a72f-326c2aa2fd37/admin_uploads/9d0bb4a2-fcc8-4a70-90f2-04d5412bba08_compressed.webp",
+    "local_path": "public/images/9d0bb4a2-fcc8-4a70-90f2-04d5412bba08_compressed.webp",
+    "type": "image",
+    "size": 59468,
+    "content_type": "application/octet-stream",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/goa"
+    ],
+    "status": "collected",
+    "sha256": "67e072eb3c313a7dd91109d52a2d2c6a600e8da1c6e3cd4df21cd5e2c9064d3a"
+  },
+  {
+    "original_url": "https://gcpimages.theweddingcompany.com/weddings/c1bca43b-8d68-4f9b-a44d-ad0ea3634d6b/admin_uploads/cfe06156-ec82-41aa-b157-396cff69a182.webp",
+    "local_path": "public/images/cfe06156-ec82-41aa-b157-396cff69a182.webp",
+    "type": "image",
+    "size": 68990,
+    "content_type": "image/webp",
+    "referenced_by": [
+      "https://www.theweddingcompany.com/wedding-venues",
+      "https://www.theweddingcompany.com/wedding-venues/bengaluru"
+    ],
+    "status": "collected",
+    "sha256": "2a67d85a366acb8a22b89b054974fd941e734b6bafd13f9bca8dd7c968cbd997"
+  }
+]

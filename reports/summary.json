@@ -1,0 +1,80 @@
+{
+  "url": "https://www.theweddingcompany.com/",
+  "purpose": {
+    "title": "The Wedding Company - Book Venues, End to End Wedding Services, Planners in India",
+    "description": "The Wedding Company provides the best wedding services in India. Book end-to-end wedding planning services online with us and grab the best deals for your wedding, engagement, reception, and other events.",
+    "explicit_motto_or_slogan": "The Wedding Company",
+    "inferred_positioning": "General informational / marketing website",
+    "purpose_hints": [
+      "General informational / marketing website"
+    ],
+    "audience_guess": "Website visitors"
+  },
+  "technologies": [
+    {
+      "name": "Google Fonts",
+      "confidence": "high",
+      "evidence": [
+        "fonts\\.googleapis\\.com",
+        "fonts\\.gstatic\\.com"
+      ]
+    },
+    {
+      "name": "Google Tag Manager",
+      "confidence": "high",
+      "evidence": [
+        "googletagmanager\\.com",
+        "GTM-[A-Z0-9]+"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "confidence": "high",
+      "evidence": [
+        "/_next/",
+        "__NEXT_DATA__"
+      ]
+    },
+    {
+      "name": "Google Analytics",
+      "confidence": "medium",
+      "evidence": [
+        "G-[A-Z0-9]+"
+      ]
+    },
+    {
+      "name": "Hugo",
+      "confidence": "medium",
+      "evidence": [
+        "hugo"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "confidence": "medium",
+      "evidence": [
+        "vercel"
+      ]
+    },
+    {
+      "name": "Webpack",
+      "confidence": "medium",
+      "evidence": [
+        "webpack"
+      ]
+    },
+    {
+      "name": "jQuery",
+      "confidence": "medium",
+      "evidence": [
+        "jQuery"
+      ]
+    }
+  ],
+  "pages_crawled": 15,
+  "reconstruction_status": {
+    "assets_collected": 80,
+    "assets_failed": 0,
+    "missing_resources": []
+  }
+}
